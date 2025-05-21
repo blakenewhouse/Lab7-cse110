@@ -12,5 +12,7 @@ Check your understanding:
    1. properly size images to save cellular data and decrease loading times
    2. convert images into newer formats like WebP and AVIF, which are better compressed when compared to PNG and JPEG
    3. Insert a HTML `<meta name="viewport">` tag which will reduce delay after user input and optimize the website for mobile usage.
+
+
 ![Successful-Testing](success.png)
 
